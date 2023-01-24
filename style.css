@@ -4,6 +4,7 @@
     margin: 0;
     padding: 0;
     text-decoration: none;
+    background-color: #FAF7FD;
 }
 /* Section 1 */
 .heading{
@@ -40,7 +41,7 @@
     background-color: #FAF7FD;
     color: #BB99DD;
     text-align: center;
-    padding: 1rem;
+    padding: 2rem;
 }
 /* End of Section 1 */
 
@@ -73,5 +74,17 @@
 /*End of Section 2 */
 
 /* Section 3*/
+.section-3{
+    background-color: #FAF7FD;
+    display: flex;
+    flex-direction: row;
+}
 
+.social-media-btn{
+    padding: 3rem;
+    margin: 0 auto;
+    flex-direction: row;
+    letter-spacing: 30px;
+
+}
 /* End ofSection 3*/
