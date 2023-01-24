@@ -3,6 +3,7 @@
 *{
     margin: 0;
     padding: 0;
+    text-decoration: none;
 }
 /* Section 1 */
 .heading{
@@ -42,3 +43,35 @@
     padding: 1rem;
 }
 /* End of Section 1 */
+
+/* Section 2 */
+.section-2{
+    background-color: #FAF7FD;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.link-btn{
+    width: 300px;
+    height: 49;  
+    font-weight: 600;
+    font-family: "Poppins", cursive;
+    font-size: small;
+    display: flex;
+    justify-content: center;
+    color: #BB99DD;
+    width: 300px;
+    height: 49;
+    padding: 1rem 2rem;
+    border: 2px solid #BB99DD ;
+    background-color: transparent;
+    margin: .5rem 0 .5rem 0;
+    border-radius: 4px;
+}
+/*End of Section 2 */
+
+/* Section 3*/
+
+/* End ofSection 3*/
